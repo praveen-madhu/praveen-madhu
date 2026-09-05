@@ -23,19 +23,19 @@ My approach is simple:
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java%20%7C%20Basic-0A101F?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Java](https://img.shields.io/badge/Java-0A101F?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML-0A101F?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0A101F?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript%20%7C%20Basics-0A101F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL%20%7C%20Basics-0A101F?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQL](https://img.shields.io/badge/SQL-0A101F?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 ### 🤖 AI & Machine Learning
-![AI](https://img.shields.io/badge/Artificial%20Intelligence%20%7C%20Basics-0A101F?style=for-the-badge&logo=openai&logoColor=22D3EE)
-![ML](https://img.shields.io/badge/Machine%20Learning%20%7C%20Basics-0A101F?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-0A101F?style=for-the-badge&logo=openai&logoColor=22D3EE)
+![ML](https://img.shields.io/badge/Machine%20Learning-0A101F?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 
 ### ⚙️ Voice Technology
 ![TTS](https://img.shields.io/badge/Text--to--Speech-0A101F?style=for-the-badge&logo=googleassistant&logoColor=22D3EE)
