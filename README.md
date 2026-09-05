@@ -15,7 +15,7 @@ I’m interested in **software development, artificial intelligence, machine lea
 
 My approach is simple:
 
-**Build → Experiment → Learn → Improve → Ship 🚀**
+**Code → Build → Solve → Improve → Repeat 🚀**
 
 ### 🤖 Currently Developing
 - 🧠 A personal assistant
