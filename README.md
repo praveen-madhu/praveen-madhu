@@ -11,11 +11,25 @@
 
 I'm **Praveen M**, a Developer & Technology Enthusiast who enjoys building practical solutions and exploring how technology can be used to solve real-world problems.
 
-I’m interested in **software development, artificial intelligence, machine learning, automation, web technologies, databases, Linux, and embedded systems**. I enjoy working across different areas of technology, experimenting with new ideas, and understanding how things work from the ground up.
+I’m interested in **software development, artificial intelligence, machine learning, automation, web technologies, databases, and Linux**. I enjoy working across different areas of technology, experimenting with new ideas, and understanding how things work from the ground up.
 
 My approach is simple:
 
 **Build → Experiment → Learn → Improve → Ship 🚀**
+
+### 🤖 Currently Developing
+- 🧠 A personal assistant
+- 🐍 Exploring Python-based automation
+- 🎙️ Working with voice interaction and AI technologies
+
+### 🌱 Currently Learning
+- 🐍 Advanced Python
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Web Development
+- 🗄️ SQL & databases
+
+### ⚡ Fun Fact
+- 🧠 I enjoy turning ideas into experiments and experiments into working projects.
 
 ---
 
