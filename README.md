@@ -16,7 +16,7 @@ I believe in learning through experimentation, building real-world projects, and
 `Python` · `Java (Basic)`
 
 ### 🌐 Web Development
-`HTML` · `CSS` · `Web Development (Basics)`
+`HTML` · `CSS` · `JavaScript (Basics)`
 
 ### 🗄️ Database
 `SQL (Basics)`
@@ -24,14 +24,11 @@ I believe in learning through experimentation, building real-world projects, and
 ### 🤖 AI & Machine Learning
 `Artificial Intelligence (Basics)` · `Machine Learning (Basics)`
 
-### ⚡ Embedded Systems & IoT
-`ESP32` · `ESP8266` · `IoT` · `Electronics & Hardware Integration`
-
-### ⚙️ Automation & Voice Technology
-`Python Automation` · `Hardware Automation` · `Text-to-Speech` · `Speech-to-Text`
+### ⚙️ Voice Technology
+`Text-to-Speech` · `Speech-to-Text`
 
 ### 🐧 Operating Systems
-`Linux`
+`Linux` . `Windows`
 
 ### 🔧 Tools & Version Control
 `VS Code` · `Git` · `GitHub`
