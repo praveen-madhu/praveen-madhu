@@ -32,3 +32,9 @@ I believe in learning through experimentation, building real-world projects, and
 
 ### 🔧 Tools & Version Control
 `VS Code` · `Git` · `GitHub`
+
+## 🌐 Connect With Me
+
+🔗 **LinkedIn:** [linkedin.com/in/praveen-madhu2004](https://www.linkedin.com/in/praveen-madhu2004/)
+
+📧 **Email:** [praveenmadhu2004@gmail.com](mailto:praveenmadhu2004@gmail.com)
