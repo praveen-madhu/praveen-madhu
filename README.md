@@ -26,7 +26,7 @@ My approach is simple:
 - 🐍 Advanced Python
 - 🤖 Artificial Intelligence & Machine Learning
 - 🌐 Web Development
-- 🗄️ SQL & databases
+- 🗄️ SQL & Databases
 
 ### ⚡ Fun Fact
 - 🧠 I enjoy turning ideas into experiments and experiments into working projects.
